@@ -1,7 +1,7 @@
 class Solution {
-    public int minSwaps(int[] nums) {
+public int minSwaps(int[] nums) {
        
-               int cnt1 = 0;
+   int cnt1 = 0;
     int count1 = 0;
     int swaps;
     int ans = Integer.MAX_VALUE;
